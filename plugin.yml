@@ -1,0 +1,5 @@
+name: NotPlaceShulkers
+main: fernanACM\NotPlaceShulkers\Loader
+version: 1.0.0-ACM
+api: 5.3.0
+author: fernanACM
